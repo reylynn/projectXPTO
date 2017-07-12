@@ -4,7 +4,7 @@
 	get_sidebar();
 	get_bread_three();
 ?>
-			<div class="row-fluid sortable">
+			<!--<div class="row-fluid sortable">-->
 				<div class="box span12">
 					<div class="box-header" data-original-title>
 						<h2><i class="halflings-icon white edit"></i><span class="break"></span>Add New Record </h2>
